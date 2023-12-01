@@ -1,8 +1,13 @@
-# Salesforce DX Project: Next Steps
+# Salesforce DX Project: Notice
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+This Project is an open source project used to train Salesforce LWC and Apex knowledge and keep them fresh.
 
-## How Do You Plan to Deploy Your Changes?
+# Salesforce DX Project: Overview
+
+Developping a CRM Dashboard in Salesforce using LWC and Apex classes. This dashboard will provide various functionalities
+to manage customer interaction, track sales opportunities and analyze customer data.
+
+<!-- ## How Do You Plan to Deploy Your Changes?
 
 Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
 
@@ -10,7 +15,7 @@ Do you want to deploy a set of changes, or create a self-contained application? 
 
 The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
 
-## Read All About It
+## Read All About It -->
 
 - [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
 - [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
